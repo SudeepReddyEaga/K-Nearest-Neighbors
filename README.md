@@ -1,5 +1,5 @@
 # K-Nearest-Neighbors
-K-Nearest Neighbors (KNN) is a simple, intuitive supervised machine learning algorithm used for both classification and regression. It is based on the idea that "similar things exist in close proximity"—often summarized by the phrase "birds of a feather flock together". 
+K-Nearest Neighbors (KNN) is a simple, intuitive supervised machine learning algorithm used for both classification and regression. It is based on the idea that "similar things exist in close proximity" often summarized by the phrase "birds of a feather flock together". 
 
 How It Works
 The algorithm doesn't "learn" a model in the traditional sense; instead, it memorizes the entire training dataset. When a new data point needs to be predicted, KNN performs these steps: 
